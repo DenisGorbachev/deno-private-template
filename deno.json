@@ -1,0 +1,20 @@
+{
+  "fmt": {
+    "lineWidth": 100500,
+    "semiColons": false
+  },
+  "lint": {
+    "rules": {
+      "exclude": [
+        "no-slow-types"
+      ]
+    }
+  },
+  "compilerOptions": {
+    "strict": true,
+    "noErrorTruncation": true,
+    "exactOptionalPropertyTypes": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUncheckedIndexedAccess": true
+  }
+}
